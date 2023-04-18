@@ -1,6 +1,9 @@
 Basic Animated Scoreboard
 ======
 
+# ⚠️Projet abandonné⚠️
+
+
 **Support du projet:**
   - Bientôt
 ------
